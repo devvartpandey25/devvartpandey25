@@ -44,10 +44,14 @@ DAV Public School | 2019 – 2020 | New Delhi
 
 Skills
 
-Programming & Development: Java, Python, JavaScript, HTML, CSS, React.js, Spring Boot, Spring Security, JWT
+Programming & Development: Java, Python, JavaScript, HTML, CSS, React.js, Spring Boot, Spring Security, JWT.
+
 Databases & Storage: MySQL, MongoDB, PostgreSQL, Redis
+
 Testing & Tools: JUnit, Git, GitHub, Postman, Swagger
+
 Software Engineering: System Design (Basics), DSA in Java, Agile Development
+
 Soft Skills: Team Collaboration, Problem-Solving, Presentation Skills
 
 Projects
